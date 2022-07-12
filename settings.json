@@ -1,0 +1,50 @@
+{
+  "tokens": {
+    "main": "OTcxNTMwOTE5MzUxNTU4MjE1.GZ51xd.s79fHfQSHglUV_nYocLGs5Tc-h7i87vibR2jSY",
+    "alts": [
+      ""
+    ]
+  },
+  "status": {
+    "main": "dnd",
+    "alts": "invisible"
+  },
+  "nitro": {
+    "max": 5,
+    "cooldown": 1,
+    "main_sniper": true,
+    "delay": true
+  },
+  "giveaway": {
+    "enable": false,
+    "delay": 15,
+    "dm": "Hey, I won a giveaway !",
+    "dm_delay": 25,
+    "blacklist_words": [
+      "bot",
+      "test",
+      "ban"
+    ],
+    "whitelist_words": [
+      "nitro"
+    ],
+    "blacklist_servers": []
+  },
+  "invite": {
+    "enable": false,
+    "delay": {
+      "min": 10,
+      "max": 20
+    },
+    "max": 10,
+    "cooldown": 6
+  },
+  "privnote": {
+    "enable": false
+  },
+  "webhook": {
+    "url": "",
+    "good_only": false
+  },
+  "blacklist_servers": []
+}
